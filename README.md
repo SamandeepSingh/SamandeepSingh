@@ -3,50 +3,21 @@
 A versatile and passionate engineer with a strong foundation in Python programming and a knack for automation. With extensive experience across various domains including Generative AI, AI/ML, Data Analysis, Data Engineering, and DevOps, I am dedicated to leveraging modern technologies to solve complex problems and streamline processes.
 
 ## 🚀 Skills and Expertise
+Certainly! Here's an updated table using icons/images instead of text for tools and technologies:
 
-### **Generative AI**
-- **Generative Models**: GPT-3, GPT-4, DALL-E
-- **Applications**: Content generation, chatbots, creative AI solutions
-- **Use Case Identification**: Analyzing existing workflows to identify opportunities for generative AI implementation
-- **Integration**: Developing and deploying generative AI solutions to enhance existing products and processes
+| Category               | Tools and Technologies                                    | Skills and Expertise                                         |
+|------------------------|-----------------------------------------------------------|--------------------------------------------------------------|
+| **Generative AI**      | ![GPT-3](icon_gpt3.png) ![GPT-4](icon_gpt4.png) ![DALL-E](icon_dalle.png) | Generative Models, Content generation, Use Case Identification, Integration |
+| **AI/ML Engineering**  | ![TensorFlow](icon_tensorflow.png) ![PyTorch](icon_pytorch.png) ![Scikit-learn](icon_scikitlearn.png) | Machine Learning Frameworks, Data Preprocessing & Analysis, Model Deployment |
+| **Data Analysis & Engineering** | ![Pandas](icon_pandas.png) ![NumPy](icon_numpy.png) ![Matplotlib](icon_matplotlib.png) ![Snowflake](icon_snowflake.png) ![BigQuery](icon_bigquery.png) ![Hadoop](icon_hadoop.png) ![Spark](icon_spark.png) ![MySQL](icon_mysql.png) ![PostgreSQL](icon_postgresql.png) ![MongoDB](icon_mongodb.png) | Data Warehousing, ETL Processes, Big Data Technologies, Databases |
+| **DevOps**             | ![Jenkins](icon_jenkins.png) ![GitHub Actions](icon_githubactions.png) ![GitLab CI](icon_gitlabci.png) ![Docker](icon_docker.png) ![Kubernetes](icon_kubernetes.png) ![Terraform](icon_terraform.png) ![Ansible](icon_ansible.png) ![Prometheus](icon_prometheus.png) ![Grafana](icon_grafana.png) ![ELK Stack](icon_elk.png) | CI/CD, Containerization, Infrastructure as Code, Monitoring & Logging |
+| **Programming Languages** | ![Python](icon_python.png) ![JavaScript](icon_javascript.png) ![C#](icon_csharp.png) | Python Programming, Backend Development                        |
+| **API Development**    | ![REST APIs](icon_rest.png)                                | API Design and Development                                    |
+| **Version Control**    | ![Git](icon_git.png) ![Bitbucket](icon_bitbucket.png) ![GitHub](icon_github.png) | Version Control Systems                                       |
+| **Operating Systems**  | ![Linux](icon_linux.png) ![Windows](icon_windows.png)      | Operating System Familiarity                                  |
+| **IDEs**               | ![Jupyter Notebook](icon_jupyter.png) ![VSCode](icon_vscode.png) ![PyCharm](icon_pycharm.png) ![Spyder](icon_spyder.png) | IDEs for Development                                          |
+| **Cloud Technologies** | ![AWS](icon_aws.png) ![GCP](icon_gcp.png) ![Azure](icon_azure.png) | Cloud Infrastructure and Services                             |
 
-### **AI/ML Engineering**
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn
-- **Data Preprocessing & Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Model Deployment**: Flask, FastAPI, TensorFlow Serving
-
-### **Data Analysis & Engineering**
-- **Data Warehousing**: Snowflake, BigQuery
-- **ETL Processes**: Apache Airflow, Luigi
-- **Big Data Technologies**: Hadoop, Spark
-- **Databases**: MySQL, PostgreSQL, MongoDB
-
-### **DevOps**
-- **CI/CD**: Jenkins, GitHub Actions, GitLab CI
-- **Containerization**: Docker, Kubernetes
-- **Infrastructure as Code**: Terraform, Ansible
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-
-### **Programming Languages**
-- Python, JavaScript
-- C#
-
-### **API Development**
-- REST APIs
-
-### **Version Control**
-- Git, Bitbucket, GitHub
-
-### **Operating Systems**
-- Linux, Windows
-
-### **IDEs**
-- Jupyter Notebook, VSCode, PyCharm, Spyder
-
-### **Cloud Technologies**
-- **AWS**: EC2, S3, Lambda, RDS, DynamoDB
-- **GCP**: Compute Engine, Cloud Functions, Bigtable, Dataproc
-- **Azure**: Virtual Machines, Blob Storage, SQL Database
 
 ## 🌟 Highlights
 
