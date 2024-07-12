@@ -1,7 +1,3 @@
-Sure! Here is your updated profile description formatted for a `README.md` file:
-
----
-
 # 👋 Hello! I'm Samandeep Singh
 
 A versatile and passionate engineer with a strong foundation in Python programming and a knack for automation. With extensive experience across various domains including Generative AI, AI/ML, Data Analysis, Data Engineering, and DevOps, I am dedicated to leveraging modern technologies to solve complex problems and streamline processes.
